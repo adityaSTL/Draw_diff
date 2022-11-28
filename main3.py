@@ -270,7 +270,7 @@ coords()
 fig1 = plt.gcf()
 plt.show()
 plt.draw()
-fig1.savefig('tessstttyyy.png', dpi=300)
+fig1.savefig('tesssttyyy.png', dpi=300)
 
 
 
